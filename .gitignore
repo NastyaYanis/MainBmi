@@ -1,5 +1,6 @@
-*.class
-*.idea/
+# Игнорировать файлы IntelliJ IDEA
 .idea/
+*.iml
+*.iws
+*.ipr
 out/
-.iml/
